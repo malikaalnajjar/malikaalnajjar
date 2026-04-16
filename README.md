@@ -82,26 +82,38 @@ Applied ML            ████████████░░░░░░░�
 
 | Project | Stack | Notes |
 | --- | --- | --- |
-| [AUJ](https://github.com/malikaalnajjar/auj) | ESP32, MQTT, PostgreSQL, FastAPI, React, Prophet | IoT retail shelf monitoring - 30 REST endpoints, WebSocket hub, 8-table schema |
-| [Sadeed / سديد](https://github.com/malikaalnajjar/sadeed) | FastAPI, Redis, Great Expectations, One-Class SVM | GASTAT Hackathon - data quality and anomaly detection |
-| [Tayseer / تيسير](https://github.com/malikaalnajjar/tayseer) | Embedded systems, computer vision | Autonomous wheelchair - Top 15 of 500+ at AVITHON 2025 (GACA) |
-| [Masra / مَسْرَى](https://github.com/malikaalnajjar/masra) | Full-stack | Smart tourism platform - Aseer Tabtaker Hackathon |
+| AUJ | ESP32, MQTT, PostgreSQL, FastAPI, React, Prophet | IoT retail shelf monitoring - 30 REST endpoints, WebSocket hub, 8-table schema |
+| [Sadeed / سديد](https://github.com/malikaalnajjar/sadeed) | FastAPI, Redis, Great Expectations, One-Class SVM | GASTAT Hackathon - data quality and anomaly detection - qualified to the final round (top 8 teams per track, 2 tracks, 132+ teams total) |
+| Tayseer / تيسير | Embedded systems, computer vision | Autonomous wheelchair - Top 15 of 500+ at AVITHON 2025 (GACA) |
+| Masra / مَسْرَى | Full-stack | Smart tourism platform - Aseer Tabtaker Hackathon |
 
 ---
 
 ## Certifications
 
-![AWS DEA](https://img.shields.io/badge/AWS-DEA--C01-22C55E?style=flat&logo=amazonaws&logoColor=white)
-![AWS SAA](https://img.shields.io/badge/AWS-SAA--C03-22C55E?style=flat&logo=amazonaws&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-22C55E?style=flat&logo=amazonaws&logoColor=white)
-![CompTIA](https://img.shields.io/badge/CompTIA-Data%2B-16A34A?style=flat&logo=comptia&logoColor=white)
-![CAPM](https://img.shields.io/badge/PMI-CAPM-15803D?style=flat)
-![CDMP](https://img.shields.io/badge/DAMA-CDMP-15803D?style=flat)
-![IBM](https://img.shields.io/badge/IBM-Data%20Engineering%20Professional-166534?style=flat&logo=ibm&logoColor=white)
-![Google](https://img.shields.io/badge/Google-Data%20Analytics-22C55E?style=flat&logo=google&logoColor=white)
-![KAUST](https://img.shields.io/badge/KAUST-Advanced%20AI-16A34A?style=flat)
+**Cloud - AWS**
 
-Currently preparing: `PL-300` - `DP-600` - `Databricks DE Associate`
+![AWS DEA](https://img.shields.io/badge/AWS%20Data%20Engineer%20Associate-DEA--C01-22C55E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-SAA--C03-22C55E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-CLF--C02-16A34A?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Data & Analytics**
+
+![CompTIA](https://img.shields.io/badge/CompTIA%20Data%2B-DA0--001-15803D?style=for-the-badge&logo=comptia&logoColor=white)
+![CDMP](https://img.shields.io/badge/DAMA%20CDMP-Data%20Management%20Professional-166534?style=for-the-badge&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM%20Data%20Engineering-Professional%20Certificate-15803D?style=for-the-badge&logo=ibm&logoColor=white)
+![Google](https://img.shields.io/badge/Google%20Data%20Analytics-Professional%20Certificate-22C55E?style=for-the-badge&logo=google&logoColor=white)
+
+**Project Management & AI**
+
+![CAPM](https://img.shields.io/badge/PMI%20CAPM-Certified%20Associate%20in%20Project%20Management-166534?style=for-the-badge&logoColor=white)
+![KAUST](https://img.shields.io/badge/KAUST-Advanced%20AI%20Specialization-16A34A?style=for-the-badge&logoColor=white)
+
+**In progress**
+
+![PL-300](https://img.shields.io/badge/Microsoft-PL--300%20Power%20BI%20Analyst-22C55E?style=flat&logo=microsoftpowerbi&logoColor=white)
+![DP-600](https://img.shields.io/badge/Microsoft-DP--600%20Fabric%20Analytics%20Engineer-16A34A?style=flat&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-15803D?style=flat&logo=databricks&logoColor=white)
 
 ---
 
