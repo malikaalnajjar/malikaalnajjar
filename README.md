@@ -20,12 +20,10 @@ Software Engineering graduate (UBT, First Class Honours, GPA 4.96/5.0). Building
 
 ## What I work on
 
-```text
-Software Engineering  ████████████████████  Full-stack systems, IoT, embedded, cloud architecture
-Data Engineering      ████████████████████  Batch/streaming pipelines, warehouse modeling, orchestration
-Data Analytics        ████████████████░░░░  Power BI, DAX, SQL, GASTAT and SAMA datasets
-Applied ML            ████████████░░░░░░░░  Anomaly detection, forecasting, LLM integration
-```
+- **Software Engineering** - full-stack systems, IoT, embedded, cloud architecture
+- **Data Engineering** - batch and streaming pipelines, warehouse modeling, orchestration
+- **Data Analytics** - Power BI, DAX, SQL, GASTAT and SAMA datasets
+- **Applied ML** - anomaly detection, forecasting, LLM integration
 
 ---
 
