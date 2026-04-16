@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=200&section=header&text=Malik%20AlNajjar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Jeddah%2C%20KSA&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=200&section=header&text=Malik%20AlNajjar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Jeddah%2C%20KSA&descAlignY=58&descSize=16" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=AWS+Data+Engineer+Associate+(DEA-C01);Building+pipelines+for+the+Saudi+market;Power+BI+%7C+dbt+%7C+Redshift+%7C+Fabric;Open+to+roles+in+Jeddah+and+Riyadh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Data+Engineer;AWS+Data+Engineer+Associate+(DEA-C01);Building+pipelines+for+the+Saudi+market;Power+BI+%7C+dbt+%7C+Redshift+%7C+Fabric;Open+to+roles+in+Jeddah+and+Riyadh" alt="Typing SVG" />
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-alnajjar-capm%C2%AE-a7ab212b6)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik-naj@hotmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=malikaalnajjar&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/malikaalnajjar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://www.linkedin.com/in/malik-alnajjar-capm%C2%AE-a7ab212b6)
+[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=22C55E)](mailto:malik-naj@hotmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=malikaalnajjar&color=22C55E&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/malikaalnajjar)
 
 </div>
 
@@ -21,10 +21,10 @@ Software Engineering graduate (UBT, First Class Honours, GPA 4.96/5.0). Building
 ## What I work on
 
 ```text
-Data Engineering    ████████████████████  Batch/streaming pipelines, warehouse modeling, orchestration
-Data Analytics      ████████████████░░░░  Power BI, DAX, SQL, GASTAT and SAMA datasets
-Cloud Architecture  ███████████████░░░░░  AWS-first, Azure Fabric, GCP exposure
-Applied ML          ████████████░░░░░░░░  Anomaly detection, forecasting, LLM integration
+Software Engineering  ████████████████████  Full-stack systems, IoT, embedded, cloud architecture
+Data Engineering      ████████████████████  Batch/streaming pipelines, warehouse modeling, orchestration
+Data Analytics        ████████████████░░░░  Power BI, DAX, SQL, GASTAT and SAMA datasets
+Applied ML            ████████████░░░░░░░░  Anomaly detection, forecasting, LLM integration
 ```
 
 ---
@@ -33,31 +33,31 @@ Applied ML          ████████████░░░░░░░░
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=22C55E)
+![SQL](https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=22C55E)
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=22C55E)
+![Bash](https://img.shields.io/badge/Bash-ffffff?style=for-the-badge&logo=gnubash&logoColor=22C55E)
 
 **Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-ffffff?style=for-the-badge&logo=amazonaws&logoColor=22C55E)
+![Azure](https://img.shields.io/badge/Azure-ffffff?style=for-the-badge&logo=microsoftazure&logoColor=22C55E)
+![Databricks](https://img.shields.io/badge/Databricks-ffffff?style=for-the-badge&logo=databricks&logoColor=22C55E)
+![GCP](https://img.shields.io/badge/GCP-ffffff?style=for-the-badge&logo=googlecloud&logoColor=22C55E)
 
 **Data & Analytics**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=22C55E)
+![Redis](https://img.shields.io/badge/Redis-ffffff?style=for-the-badge&logo=redis&logoColor=22C55E)
+![dbt](https://img.shields.io/badge/dbt-ffffff?style=for-the-badge&logo=dbt&logoColor=22C55E)
+![Power BI](https://img.shields.io/badge/Power%20BI-ffffff?style=for-the-badge&logo=powerbi&logoColor=22C55E)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=22C55E)
 
 **Backend & Infra**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=fastapi&logoColor=22C55E)
+![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=22C55E)
+![MQTT](https://img.shields.io/badge/MQTT-ffffff?style=for-the-badge&logo=mqtt&logoColor=22C55E)
 
 ---
 
@@ -65,14 +65,14 @@ Applied ML          ████████████░░░░░░░░
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=malikaalnajjar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikaalnajjar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=malikaalnajjar&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikaalnajjar&layout=compact&theme=merko&hide_border=true&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=malikaalnajjar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img src="https://streak-stats.demolab.com?user=malikaalnajjar&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=malikaalnajjar&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malikaalnajjar&theme=merko&hide_border=true&area=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=malikaalnajjar&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=malikaalnajjar&theme=matrix&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -91,15 +91,15 @@ Applied ML          ████████████░░░░░░░░
 
 ## Certifications
 
-![AWS DEA](https://img.shields.io/badge/AWS-DEA--C01-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![AWS SAA](https://img.shields.io/badge/AWS-SAA--C03-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![CompTIA](https://img.shields.io/badge/CompTIA-Data%2B-C8202F?style=flat&logo=comptia&logoColor=white)
-![CAPM](https://img.shields.io/badge/PMI-CAPM-003087?style=flat)
-![CDMP](https://img.shields.io/badge/DAMA-CDMP-00457C?style=flat)
-![IBM](https://img.shields.io/badge/IBM-Data%20Engineering%20Professional-052FAD?style=flat&logo=ibm&logoColor=white)
-![Google](https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=flat&logo=google&logoColor=white)
-![KAUST](https://img.shields.io/badge/KAUST-Advanced%20AI-009639?style=flat)
+![AWS DEA](https://img.shields.io/badge/AWS-DEA--C01-22C55E?style=flat&logo=amazonaws&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS-SAA--C03-22C55E?style=flat&logo=amazonaws&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-22C55E?style=flat&logo=amazonaws&logoColor=white)
+![CompTIA](https://img.shields.io/badge/CompTIA-Data%2B-16A34A?style=flat&logo=comptia&logoColor=white)
+![CAPM](https://img.shields.io/badge/PMI-CAPM-15803D?style=flat)
+![CDMP](https://img.shields.io/badge/DAMA-CDMP-15803D?style=flat)
+![IBM](https://img.shields.io/badge/IBM-Data%20Engineering%20Professional-166534?style=flat&logo=ibm&logoColor=white)
+![Google](https://img.shields.io/badge/Google-Data%20Analytics-22C55E?style=flat&logo=google&logoColor=white)
+![KAUST](https://img.shields.io/badge/KAUST-Advanced%20AI-16A34A?style=flat)
 
 Currently preparing: `PL-300` - `DP-600` - `Databricks DE Associate`
 
@@ -117,6 +117,6 @@ Currently preparing: `PL-300` - `DP-600` - `Databricks DE Associate`
 
 Arabic speaker. Open to collaboration on data projects involving Saudi public datasets or Gulf-region use cases.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=100&section=footer" />
 
 </div>
