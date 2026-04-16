@@ -159,7 +159,7 @@ A smart tourism platform built for the Aseer Tabtaker Hackathon. Focused on prom
 
 <div align="center">
 
-Arabic speaker. Open to collaboration on data projects involving Saudi public datasets or Gulf-region use cases.
+Arabic (native) and English (IELTS 7.5). Open to collaboration on data projects involving Saudi public datasets or Gulf-region use cases.
 
 <br/>
 
