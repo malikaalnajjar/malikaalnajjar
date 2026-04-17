@@ -76,14 +76,14 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=malikaalnajjar&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikaalnajjar&layout=compact&theme=merko&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=malikaalnajjar&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikaalnajjar&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=malikaalnajjar&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img src="https://streak-stats.demolab.com?user=malikaalnajjar&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=malikaalnajjar&theme=merko&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malikaalnajjar&theme=merko&hide_border=true&area=true" alt="Activity Graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=malikaalnajjar&theme=matrix&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=malikaalnajjar&theme=matrix&no-frame=true&row=1&column=6" alt="Trophies" />
 
 </div>
 
@@ -91,7 +91,7 @@
 
 ## Selected Projects
 
-### [AUJ — IoT Retail Shelf Monitoring](https://github.com/malikaalnajjar/auj)
+### AUJ — IoT Retail Shelf Monitoring
 
 **Senior Capstone 2025–26 · Stack:** ESP32, MQTT, PostgreSQL, FastAPI, Prophet
 
