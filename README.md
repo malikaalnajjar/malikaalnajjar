@@ -1,24 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=200&section=header&text=Malik%20AlNajjar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Jeddah%2C%20KSA&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00e676&height=200&section=header&text=Malik%20AlNajjar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Software%20Engineer%20%7C%20Jeddah%2C%20KSA&descAlignY=58&descSize=16" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Data+Engineer;AWS+Data+Engineer+Associate+(DEA-C01);Building+pipelines+for+the+Saudi+market;Power+BI+%7C+dbt+%7C+Redshift+%7C+Fabric;Open+to+roles+in+Jeddah+and+Riyadh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00e676&center=true&vCenter=true&width=750&lines=AWS+Data+Engineer+Associate+(DEA-C01);Building+ETL%2FELT+pipelines+for+the+Saudi+market;Power+BI+%7C+dbt+%7C+Kafka+%7C+Great+Expectations;DAMA+CDMP+%7C+PMI+CAPM+%7C+10%2B+Certifications;Open+to+Co-op+%E2%80%94+Graduating+June+2026" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://www.linkedin.com/in/malik-alnajjar-capm%C2%AE-a7ab212b6)
-[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=22C55E)](mailto:malik-naj@hotmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=malikaalnajjar&color=22C55E&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/malikaalnajjar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-malikaalnajjar.github.io-00e676?style=for-the-badge&logo=github&logoColor=white)](https://malikaalnajjar.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=00e676)](https://www.linkedin.com/in/malik-alnajjar-capm%C2%AE-a7ab212b6)
+[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=microsoftoutlook&logoColor=00e676)](mailto:malik-naj@hotmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=malikaalnajjar&color=00e676&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/malikaalnajjar)
 
 </div>
 
 <br/>
 
-> Software Engineering graduate from UBT (First Class Honours, GPA 4.96/5.0). I build data platforms on AWS and Azure and design full-stack systems end-to-end. My focus is turning raw operational data into production-ready pipelines, dashboards, and intelligent systems - with a specific interest in the Saudi and Gulf market.
+> Final-year Software Engineering student at UBT, Jeddah (GPA **4.96/5.0**, graduating June 2026). I build production-grade data pipelines on AWS, design full-stack IoT systems, and turn raw datasets into decision-ready dashboards. My work is focused on the Saudi and Gulf market — from GASTAT government data to retail IoT and autonomous systems.
 >
-> Open to roles in Jeddah and Riyadh.
+> Actively seeking **co-op and internship placements** in data engineering, cloud infrastructure, and analytics.
 
 <br/>
 
@@ -28,47 +29,46 @@
 
 | Area | Details |
 | --- | --- |
-| **Software Engineering** | Full-stack web apps, IoT systems, embedded software, REST APIs, real-time communication via WebSockets and MQTT |
-| **Data Engineering** | Batch and streaming pipelines, data warehouse modeling, ETL/ELT orchestration on AWS Glue, Step Functions, and dbt |
-| **Data Analytics** | Power BI dashboards, DAX measures, SQL analysis - with hands-on work on Saudi public datasets (GASTAT, SAMA) |
-| **Applied ML** | Anomaly detection with One-Class SVM, time-series forecasting with Prophet, LLM integration in production systems |
+| **Data Engineering** | Batch and streaming ETL/ELT pipelines, data warehouse modeling, AWS Glue, dbt, Apache Kafka, Great Expectations |
+| **Cloud & Infrastructure** | AWS (S3, Glue, Athena, Lambda, ECS Fargate, CloudWatch, IAM), Docker, Redis, Apache Iceberg |
+| **Analytics & BI** | Power BI (DAX, Power Query, RLS), Tableau, statistical analysis, EDA, predictive analytics |
+| **Software Engineering** | FastAPI, REST APIs, WebSocket, full-stack web, IoT (ESP32, MQTT), Edge (Jetson Nano, ROS, LiDAR) |
+| **Applied ML** | Anomaly detection (One-Class SVM), time-series forecasting (Prophet), LLM integration (Ollama) |
 
 ---
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
-![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=22C55E)
-![SQL](https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=22C55E)
-![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=22C55E)
-![Bash](https://img.shields.io/badge/Bash-ffffff?style=for-the-badge&logo=gnubash&logoColor=22C55E)
+![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=00e676)
+![SQL](https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=00e676)
+![R](https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=r&logoColor=00e676)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=00e676)
+![Bash](https://img.shields.io/badge/Bash-ffffff?style=for-the-badge&logo=gnubash&logoColor=00e676)
 
-**Cloud**
+### Cloud & Data
 
-![AWS](https://img.shields.io/badge/AWS-ffffff?style=for-the-badge&logo=amazonaws&logoColor=22C55E)
-![Azure](https://img.shields.io/badge/Azure-ffffff?style=for-the-badge&logo=microsoftazure&logoColor=22C55E)
-![Databricks](https://img.shields.io/badge/Databricks-ffffff?style=for-the-badge&logo=databricks&logoColor=22C55E)
-![GCP](https://img.shields.io/badge/GCP-ffffff?style=for-the-badge&logo=googlecloud&logoColor=22C55E)
+![AWS](https://img.shields.io/badge/AWS-ffffff?style=for-the-badge&logo=amazonaws&logoColor=00e676)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=00e676)
+![Redis](https://img.shields.io/badge/Redis-ffffff?style=for-the-badge&logo=redis&logoColor=00e676)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-ffffff?style=for-the-badge&logo=apachekafka&logoColor=00e676)
+![dbt](https://img.shields.io/badge/dbt-ffffff?style=for-the-badge&logo=dbt&logoColor=00e676)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-ffffff?style=for-the-badge&logo=apache&logoColor=00e676)
 
-> AWS services used: Glue, Redshift, Athena, Lambda, Kinesis, S3, DMS, Step Functions
+### Analytics & BI
 
-**Data & Analytics**
+![Power BI](https://img.shields.io/badge/Power%20BI-ffffff?style=for-the-badge&logo=powerbi&logoColor=00e676)
+![Tableau](https://img.shields.io/badge/Tableau-ffffff?style=for-the-badge&logo=tableau&logoColor=00e676)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=00e676)
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-ffffff?style=for-the-badge&logoColor=00e676)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=22C55E)
-![Redis](https://img.shields.io/badge/Redis-ffffff?style=for-the-badge&logo=redis&logoColor=22C55E)
-![dbt](https://img.shields.io/badge/dbt-ffffff?style=for-the-badge&logo=dbt&logoColor=22C55E)
-![Power BI](https://img.shields.io/badge/Power%20BI-ffffff?style=for-the-badge&logo=powerbi&logoColor=22C55E)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=22C55E)
-![Prophet](https://img.shields.io/badge/Prophet-ffffff?style=for-the-badge&logo=meta&logoColor=22C55E)
-![Great Expectations](https://img.shields.io/badge/Great%20Expectations-ffffff?style=for-the-badge&logoColor=22C55E)
+### Backend & Infra
 
-**Backend & Infra**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=fastapi&logoColor=22C55E)
-![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=22C55E)
-![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=22C55E)
-![MQTT](https://img.shields.io/badge/MQTT-ffffff?style=for-the-badge&logo=mqtt&logoColor=22C55E)
+![FastAPI](https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=fastapi&logoColor=00e676)
+![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=00e676)
+![MQTT](https://img.shields.io/badge/MQTT-ffffff?style=for-the-badge&logo=mqtt&logoColor=00e676)
+![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=00e676)
 
 ---
 
@@ -91,78 +91,81 @@
 
 ## Selected Projects
 
-### AUJ - IoT Retail Shelf Monitoring
-**Stack:** ESP32, MQTT, PostgreSQL, FastAPI, React, Prophet
+### [AUJ — IoT Retail Shelf Monitoring](https://github.com/malikaalnajjar/auj)
 
-A full-stack IoT system for monitoring retail shelves in real time. Built 30 REST endpoints, a WebSocket notification hub, and an 8-table relational schema. Integrated Prophet for demand forecasting based on sensor data.
+**Senior Capstone 2025–26 · Stack:** ESP32, MQTT, PostgreSQL, FastAPI, Prophet
 
----
-
-### [Sadeed / سديد](https://github.com/malikaalnajjar/sadeed) - Data Quality and Anomaly Detection
-**Stack:** FastAPI, Redis, Great Expectations, One-Class SVM
-
-Built for the GASTAT Hackathon. A data validation and anomaly detection pipeline running on Saudi public datasets. Used Great Expectations for schema and quality checks, One-Class SVM for unsupervised anomaly scoring, and Redis for pipeline caching. Qualified to the final round - top 8 teams per track across 2 tracks, out of 132+ competing teams.
+Full-stack IoT system for real-time retail shelf monitoring. 30 REST endpoints, WebSocket notification hub, 8-table relational schema, and Prophet demand forecasting driven by live sensor data.
 
 ---
 
-### Tayseer / تيسير - Autonomous Wheelchair
-**Stack:** Embedded systems, computer vision
+### [Sadeed / سديد — Data Quality & Anomaly Detection](https://github.com/malikaalnajjar/sadeed)
 
-An autonomous wheelchair built for people with mobility impairments. Placed in the Top 15 out of 500+ teams at AVITHON 2025, organized by the General Authority of Civil Aviation (GACA).
+**🏆 GASTAT Hackathon Finalist · Stack:** FastAPI, Redis, Great Expectations, One-Class SVM, AWS ECS Fargate, Ollama
+
+3-layer ETL validation across 3–5 GASTAT government datasets: schema checks (Great Expectations), statistical profiling, and ML anomaly detection (One-Class SVM, zero labelled examples). Redis caching reduced latency by 60%+. Arabic LLM reports generated fully on-premise via Ollama — zero data leaving the government network. Qualified to the final round.
 
 ---
 
-### Masra / مَسْرَى - Smart Tourism Platform
-**Stack:** Full-stack web
+### Tayseer / تيسير — Autonomous Wheelchair
+**🥇 Top 15 / 500+ teams — AVITHON 2025 (GACA) · Stack:** Jetson Nano, ROS, LiDAR, RealSense
 
-A smart tourism platform built for the Aseer Tabtaker Hackathon. Focused on promoting and navigating tourism experiences in the Aseer region.
+Autonomous wheelchair pipeline built for people with mobility impairments. Field-tested at King Abdulaziz International Airport, Jeddah. Placed Top 15 nationwide out of 500+ competing teams.
+
+---
+
+### Masra / مَسْرَى — Smart Tourism Platform
+**Aseer Tabtaker Hackathon · Stack:** Full-stack web
+
+Smart tourism platform promoting and navigating experiences in the Aseer region of Saudi Arabia.
 
 ---
 
 ## Certifications
 
-### Cloud - AWS
+### Cloud — AWS
 
-![AWS DEA](https://img.shields.io/badge/AWS%20Data%20Engineer%20Associate-DEA--C01-22C55E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-SAA--C03-22C55E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-CLF--C02-16A34A?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS DEA](https://img.shields.io/badge/AWS%20Data%20Engineer%20Associate-DEA--C01%20·%20Mar%202026-00e676?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-SAA--C03%20·%20Feb%202026-00c853?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-CLF--C02%20·%20Nov%202025-00bfa5?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Data & Analytics
+### Data Management & Analytics
 
-![CompTIA](https://img.shields.io/badge/CompTIA%20Data%2B-DA0--001-15803D?style=for-the-badge&logo=comptia&logoColor=white)
-![CDMP](https://img.shields.io/badge/DAMA%20CDMP-Data%20Management%20Professional-166534?style=for-the-badge&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM%20Data%20Engineering-Professional%20Certificate-15803D?style=for-the-badge&logo=ibm&logoColor=white)
-![Google](https://img.shields.io/badge/Google%20Data%20Analytics-Professional%20Certificate-22C55E?style=for-the-badge&logo=google&logoColor=white)
+![CDMP](https://img.shields.io/badge/DAMA%20CDMP-Data%20Management%20Professional%20·%20Jan%202026-00e676?style=for-the-badge&logoColor=white)
+![CompTIA](https://img.shields.io/badge/CompTIA%20Data%2B-DA0--001%20·%20Nov%202025-00c853?style=for-the-badge&logo=comptia&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM%20Data%20Engineering-Professional%20Certificate%20·%20Dec%202025-00bfa5?style=for-the-badge&logo=ibm&logoColor=white)
+![Google DA](https://img.shields.io/badge/Google%20Data%20Analytics-Professional%20Certificate%20·%20Dec%202025-00e676?style=for-the-badge&logo=google&logoColor=white)
+![DataCamp](https://img.shields.io/badge/DataCamp%20Associate%20Data%20Engineer-SQL%20·%20Jun%202025-00c853?style=for-the-badge&logo=datacamp&logoColor=white)
 
-### Project Management & AI
+### Project Management & Leadership
 
-![CAPM](https://img.shields.io/badge/PMI%20CAPM-Certified%20Associate%20in%20Project%20Management-166534?style=for-the-badge&logoColor=white)
-![KAUST](https://img.shields.io/badge/KAUST-Advanced%20AI%20Specialization-16A34A?style=for-the-badge&logoColor=white)
+![CAPM](https://img.shields.io/badge/PMI%20CAPM-Certified%20Associate%20in%20Project%20Management%20·%20Jan%202026-00e676?style=for-the-badge&logoColor=white)
+![Google PM](https://img.shields.io/badge/Google%20Project%20Management-Professional%20Certificate%20·%20Jan%202026-00c853?style=for-the-badge&logo=google&logoColor=white)
+![McKinsey](https://img.shields.io/badge/McKinsey%20Forward%20Program-Jul%202025-00bfa5?style=for-the-badge&logoColor=white)
+![KAUST](https://img.shields.io/badge/KAUST%20Advanced%20AI%20Specialization-Jan–Feb%202025-00e676?style=for-the-badge&logoColor=white)
 
 ### In Progress
 
-![PL-300](https://img.shields.io/badge/Microsoft-PL--300%20Power%20BI%20Analyst-22C55E?style=flat&logo=microsoftpowerbi&logoColor=white)
-![DP-600](https://img.shields.io/badge/Microsoft-DP--600%20Fabric%20Analytics%20Engineer-16A34A?style=flat&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-15803D?style=flat&logo=databricks&logoColor=white)
+![PL-300](https://img.shields.io/badge/Microsoft-PL--300%20Power%20BI%20Analyst%20·%20Apr%202026-00e676?style=flat&logo=microsoftpowerbi&logoColor=white)
 
 ---
 
-## Communities
+## Communities & Leadership
 
-| Role | Organization |
-| --- | --- |
-| Outreach Lead | GDG On Campus UBT |
-| Vice Chair and Treasurer | UBT ACM Student Chapter |
-| Organizer | AWS Cloud Club |
+| Role | Organization | Period |
+| --- | --- | --- |
+| Outreach Team Leader | GDG On Campus UBT | Oct 2025 – Present |
+| Vice Chair & Treasurer | UBT ACM Student Chapter | Feb – Dec 2025 |
+| Brand Protection Member | AFC Asian Cup U-23, Local Organising Committee KSA | Jan 2026 – Present |
 
 ---
 
 <div align="center">
 
-Arabic (native) and English (IELTS 7.5). Open to collaboration on data projects involving Saudi public datasets or Gulf-region use cases.
+Arabic (native) · English IELTS 7.5 · Open to collaboration on data projects involving Saudi public datasets or Gulf-region use cases.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00e676&height=100&section=footer" />
 
 </div>
