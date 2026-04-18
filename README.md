@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00e676&height=200&section=header&text=Malik%20AlNajjar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Software%20Engineer%20%7C%20Jeddah%2C%20KSA&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00e676&height=200&section=header&text=Malik%20AlNajjar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Software%20Engineer%20%7C%20Jeddah%2C%20KSA&descAlignY=58&descSize=16" alt="Malik AlNajjar - Data Engineer | Software Engineer | Jeddah, KSA" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00e676&center=true&vCenter=true&width=750&lines=AWS+Data+Engineer+Associate+(DEA-C01);Building+ETL%2FELT+pipelines+for+the+Saudi+market;Power+BI+%7C+dbt+%7C+Kafka+%7C+Great+Expectations;DAMA+CDMP+%7C+PMI+CAPM+%7C+10%2B+Certifications;Open+to+Co-op+%E2%80%94+Graduating+June+2026" alt="Typing SVG" />
@@ -159,7 +159,7 @@ Smart tourism platform promoting and navigating experiences in the Aseer region 
 | Volunteer | Falling Walls Foundation | Sep 2025 |
 | Brand Protection Member | AFC LOC - Asian Cup U-23, KSA | Jan 2026 |
 | Volunteer | APCG 2026, UBT | Feb 2026 |
-| Brand Protection Member | AFC LOC - Champions League Elite (ACLE) Finals 2026, KSA | Apr 2026 – Present |
+| Rights Protection Team | AFC LOC - Champions League Elite (ACLE) Finals 2026, KSA | Apr 2026 – Present |
 
 ---
 
