@@ -156,7 +156,10 @@ Smart tourism platform promoting and navigating experiences in the Aseer region 
 | --- | --- | --- |
 | Outreach Team Leader | GDG On Campus UBT | Oct 2025 – Present |
 | Vice Chair & Treasurer | UBT ACM Student Chapter | Feb – Dec 2025 |
-| Brand Protection Member | AFC Asian Cup U-23, Local Organising Committee KSA | Jan 2026 – Present |
+| Volunteer | Falling Walls Foundation | Sep 2025 |
+| Brand Protection Member | AFC LOC - Asian Cup U-23, KSA | Jan 2026 |
+| Volunteer | APCG 2026, UBT | Feb 2026 |
+| Brand Protection Member | AFC LOC - Champions League Elite (ACLE) Finals 2026, KSA | Apr 2026 – Present |
 
 ---
 
