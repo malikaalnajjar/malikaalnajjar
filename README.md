@@ -172,9 +172,9 @@ Adventure-tourism platform making Aseer's mountain trails safe and bookable: tra
 | Outreach Team Leader | GDG On Campus UBT | Oct 2025 – Jun 2026 |
 | Vice Chair & Treasurer | UBT ACM Student Chapter | Feb – Dec 2025 |
 | Volunteer | Falling Walls Foundation | Sep 2025 |
-| Brand Protection Member | AFC LOC - Asian Cup U-23, KSA | Jan 2026 |
+| Brand Protection Volunteer | AFC LOC - Asian Cup U-23, KSA | Jan 2026 |
 | Volunteer | APCG 2026, UBT | Feb 2026 |
-| Rights Protection Team | AFC LOC - Champions League Elite (ACLE) Finals 2026, KSA | Apr 2026 – Present |
+| Rights Protection Volunteer | AFC LOC - Champions League Elite (ACLE) Finals 2026, KSA | Apr 2026 – Present |
 
 ---
 
