@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00e676&height=200&section=header&text=Malik%20AlNajjar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Data%20%7C%20Jeddah%2C%20KSA&descAlignY=58&descSize=16" alt="Malik AlNajjar - Software Engineer | Full-Stack & Data | Jeddah, KSA" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00e676&center=true&vCenter=true&width=750&lines=Software+Engineer+at+MicroMobility%2C+Jeddah;PostgreSQL+%7C+Supabase+%7C+Cloudflare+%7C+Playwright;AWS+Data+Engineer+%26+Solutions+Architect+Associate;Data+pipelines+%C2%B7+ML+%C2%B7+IoT;DAMA+CDMP+%7C+PMI+CAPM+%7C+10%2B+Certifications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00e676&center=true&vCenter=true&width=750&lines=Software+Engineer+at+MicroMobility%2C+Jeddah;IT+Co-op+at+Sela;PostgreSQL+%7C+Supabase+%7C+Cloudflare+%7C+Playwright;AWS+Data+Engineer+%26+Solutions+Architect+Associate;Data+pipelines+%C2%B7+ML+%C2%B7+IoT;DAMA+CDMP+%7C+PMI+CAPM+%7C+10%2B+Certifications" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
 
 <br/>
 
-> Software Engineer at **MicroMobility** in Jeddah, where I build and run the production booking, check-in and point-of-sale platform behind the company's group rides (PostgreSQL/Supabase, JavaScript, Cloudflare, Playwright CI). B.Sc. Software Engineering from UBT with First Class Honours (GPA **4.97/5.0**). My projects span data pipelines, machine learning and IoT for the Saudi market — from GASTAT government data to retail IoT and autonomous systems.
+> Software Engineer at **MicroMobility** in Jeddah, where I build and run the production booking, check-in and point-of-sale platform behind the company's group rides (PostgreSQL/Supabase, JavaScript, Cloudflare, Playwright CI), and currently on a co-op in the IT department at **Sela**. B.Sc. Software Engineering from UBT with First Class Honours (GPA **4.97/5.0**). My projects span data pipelines, machine learning and IoT for the Saudi market — from GASTAT government data to retail IoT and autonomous systems.
 >
 > Portfolio and CV: **[malikalnajjar.com](https://malikalnajjar.com)**
 
@@ -168,6 +168,7 @@ Adventure-tourism platform making Aseer's mountain trails safe and bookable: tra
 | Role | Organization | Period |
 | --- | --- | --- |
 | Software Engineer | MicroMobility, Jeddah | Jun 2026 – Present |
+| IT Co-op | Sela, IT Department | Jul 2026 – Present |
 | Outreach Team Leader | GDG On Campus UBT | Oct 2025 – Jun 2026 |
 | Vice Chair & Treasurer | UBT ACM Student Chapter | Feb – Dec 2025 |
 | Volunteer | Falling Walls Foundation | Sep 2025 |
