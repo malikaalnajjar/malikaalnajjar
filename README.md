@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00e676&height=200&section=header&text=Malik%20AlNajjar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Software%20Engineer%20%7C%20Jeddah%2C%20KSA&descAlignY=58&descSize=16" alt="Malik AlNajjar - Data Engineer | Software Engineer | Jeddah, KSA" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00e676&height=200&section=header&text=Malik%20AlNajjar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Data%20%7C%20Jeddah%2C%20KSA&descAlignY=58&descSize=16" alt="Malik AlNajjar - Software Engineer | Full-Stack & Data | Jeddah, KSA" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00e676&center=true&vCenter=true&width=750&lines=AWS+Data+Engineer+Associate+(DEA-C01);Building+ETL%2FELT+pipelines+for+the+Saudi+market;Power+BI+%7C+dbt+%7C+Kafka+%7C+Great+Expectations;DAMA+CDMP+%7C+PMI+CAPM+%7C+10%2B+Certifications;Open+to+Co-op+%E2%80%94+Graduating+June+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00e676&center=true&vCenter=true&width=750&lines=Software+Engineer+at+MicroMobility%2C+Jeddah;PostgreSQL+%7C+Supabase+%7C+Cloudflare+%7C+Playwright;AWS+Data+Engineer+%26+Solutions+Architect+Associate;Data+pipelines+%C2%B7+ML+%C2%B7+IoT;DAMA+CDMP+%7C+PMI+CAPM+%7C+10%2B+Certifications" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-malikaalnajjar.github.io-00e676?style=for-the-badge&logo=github&logoColor=white)](https://malikaalnajjar.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-malikalnajjar.com-00e676?style=for-the-badge&logoColor=white)](https://malikalnajjar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=00e676)](https://www.linkedin.com/in/malik-alnajjar-capm%C2%AE-a7ab212b6)
 [![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=microsoftoutlook&logoColor=00e676)](mailto:malik-naj@hotmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=malikaalnajjar&color=00e676&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/malikaalnajjar)
@@ -17,9 +17,9 @@
 
 <br/>
 
-> Final-year Software Engineering student at UBT, Jeddah (GPA **4.96/5.0**, graduating June 2026). I build production-grade data pipelines on AWS, design full-stack IoT systems, and turn raw datasets into decision-ready dashboards. My work is focused on the Saudi and Gulf market — from GASTAT government data to retail IoT and autonomous systems.
+> Software Engineer at **MicroMobility** in Jeddah, where I build and run the production booking, check-in and point-of-sale platform behind the company's group rides (PostgreSQL/Supabase, JavaScript, Cloudflare, Playwright CI). B.Sc. Software Engineering from UBT with First Class Honours (GPA **4.97/5.0**). My projects span data pipelines, machine learning and IoT for the Saudi market — from GASTAT government data to retail IoT and autonomous systems.
 >
-> Actively seeking **co-op and internship placements** in data engineering, cloud infrastructure, and analytics.
+> Portfolio and CV: **[malikalnajjar.com](https://malikalnajjar.com)**
 
 <br/>
 
@@ -29,11 +29,12 @@
 
 | Area | Details |
 | --- | --- |
+| **Web & Backend** | Production PWA on Supabase (PostgreSQL, row-level security, Realtime), Cloudflare Pages & Workers, IndexedDB, Playwright end-to-end tests, GitHub Actions |
 | **Data Engineering** | Batch and streaming ETL/ELT pipelines, data warehouse modeling, AWS Glue, dbt, Apache Kafka, Great Expectations |
 | **Cloud & Infrastructure** | AWS (S3, Glue, Athena, Lambda, ECS Fargate, CloudWatch, IAM), Docker, Redis, Apache Iceberg |
 | **Analytics & BI** | Power BI (DAX, Power Query, RLS), Tableau, statistical analysis, EDA, predictive analytics |
 | **Software Engineering** | FastAPI, REST APIs, WebSocket, full-stack web, IoT (ESP32, MQTT), Edge (Jetson Nano, ROS, LiDAR) |
-| **Applied ML** | Anomaly detection (One-Class SVM), time-series forecasting (Prophet), LLM integration (Ollama) |
+| **Applied ML** | Anomaly detection (One-Class SVM), demand forecasting (LightGBM quantile models), object detection (YOLOv12n), local LLMs (Ollama) |
 
 ---
 
@@ -46,6 +47,14 @@
 ![R](https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=r&logoColor=00e676)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=00e676)
 ![Bash](https://img.shields.io/badge/Bash-ffffff?style=for-the-badge&logo=gnubash&logoColor=00e676)
+
+### Web & Platform
+
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=00e676)
+![Supabase](https://img.shields.io/badge/Supabase-ffffff?style=for-the-badge&logo=supabase&logoColor=00e676)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-ffffff?style=for-the-badge&logo=cloudflare&logoColor=00e676)
+![Playwright](https://img.shields.io/badge/Playwright-ffffff?style=for-the-badge&logoColor=00e676)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-ffffff?style=for-the-badge&logo=githubactions&logoColor=00e676)
 
 ### Cloud & Data
 
@@ -91,19 +100,27 @@
 
 ## Selected Projects
 
-### AUJ — IoT Retail Shelf Monitoring
+### [MicroMobility Platform — Booking, Check-in & POS](https://micromobilityrentals.pages.dev/)
 
-**Senior Capstone 2025–26 · Stack:** ESP32, MQTT, PostgreSQL, FastAPI, Prophet
+**Live in production · Stack:** Supabase (PostgreSQL, RLS, Realtime), JavaScript PWA, Cloudflare Pages, Playwright, GitHub Actions
 
-Full-stack IoT system for real-time retail shelf monitoring. 30 REST endpoints, WebSocket notification hub, 8-table relational schema, and Prophet demand forecasting driven by live sensor data.
+The production platform behind MicroMobility's group rides and events in Jeddah. Riders book in 10 languages with Google or Apple sign-in and get Apple Wallet passes; staff run check-in (including NFC bike tags), point of sale, inventory, refunds and reports from their own phones, kept in sync in real time.
 
 ---
 
-### [Sadeed / سديد — Data Quality & Anomaly Detection](https://github.com/malikaalnajjar/sadeed)
+### AUJ — Smart Retail Shelf System
 
-**🏆 GASTAT Hackathon Finalist · Stack:** FastAPI, Redis, Great Expectations, One-Class SVM, AWS ECS Fargate, Ollama
+**Senior Capstone 2025–26 · Stack:** ESP32-S3, MQTT, PostgreSQL 16, FastAPI, LightGBM, YOLOv12n, React
 
-3-layer ETL validation across 3–5 GASTAT government datasets: schema checks (Great Expectations), statistical profiling, and ML anomaly detection (One-Class SVM, zero labelled examples). Redis caching reduced latency by 60%+. Arabic LLM reports generated fully on-premise via Ollama — zero data leaving the government network. Qualified to the final round.
+Dual-sensor smart shelf (load cell + camera) for small retailers: MQTT ingestion into a local FastAPI + PostgreSQL hub (29 REST routes, live WebSocket), YOLOv12n verification of every weight event, LightGBM quantile demand forecasts and a five-rule audited pricing engine. Zero PII, fully offline, 143 passing integration tests.
+
+---
+
+### [Sadeed / سديد — Data Quality & Anomaly Detection](https://github.com/malikaalnajjar/Sadeed_GAStat_Hackathon)
+
+**🏆 GASTAT Hackathon National Finalist · Stack:** FastAPI, Redis, Great Expectations, One-Class SVM, Qwen 2.5 via Ollama, Docker
+
+Real-time data-quality guard for GASTAT field surveys: a browser extension validates each record through Great Expectations structural checks, a One-Class SVM gatekeeper and a local Arabic-capable LLM that explains each conflict. Anomaly detection rose from 23% to 87.5% (F1 0.829 on real Labour Force Survey data) at over 97% precision, with zero data leaving the government network.
 
 ---
 
@@ -114,10 +131,10 @@ Autonomous wheelchair pipeline built for people with mobility impairments. Field
 
 ---
 
-### Masra / مَسْرَى — Smart Tourism Platform
-**Aseer Tabtaker Hackathon · Stack:** Full-stack web
+### Masra / مَسْرَى — Smart Adventure Tourism Platform
+**Aseer Tabtaker 2025 · Stack:** Flutter, Mapbox, Node.js, PostgreSQL, FastAPI, AWS SageMaker, AWS IoT Core
 
-Smart tourism platform promoting and navigating experiences in the Aseer region of Saudi Arabia.
+Adventure-tourism platform making Aseer's mountain trails safe and bookable: trail booking, an AI + IoT early-warning system, accredited local guides and a gamified "Aseer Peaks Passport". Presented to the Aseer Development Authority.
 
 ---
 
@@ -127,7 +144,7 @@ Smart tourism platform promoting and navigating experiences in the Aseer region 
 
 ![AWS DEA](https://img.shields.io/badge/AWS%20Data%20Engineer%20Associate-DEA--C01%20·%20Mar%202026-00e676?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-SAA--C03%20·%20Feb%202026-00c853?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-CLF--C02%20·%20Nov%202025-00bfa5?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-CLF--C02%20·%20Dec%202025-00bfa5?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Data Management & Analytics
 
@@ -144,17 +161,14 @@ Smart tourism platform promoting and navigating experiences in the Aseer region 
 ![McKinsey](https://img.shields.io/badge/McKinsey%20Forward%20Program-Jul%202025-00bfa5?style=for-the-badge&logoColor=white)
 ![KAUST](https://img.shields.io/badge/KAUST%20Advanced%20AI%20Specialization-Jan–Feb%202025-00e676?style=for-the-badge&logoColor=white)
 
-### In Progress
-
-![PL-300](https://img.shields.io/badge/Microsoft-PL--300%20Power%20BI%20Analyst%20·%20Apr%202026-00e676?style=flat&logo=microsoftpowerbi&logoColor=white)
-
 ---
 
-## Communities & Leadership
+## Experience & Leadership
 
 | Role | Organization | Period |
 | --- | --- | --- |
-| Outreach Team Leader | GDG On Campus UBT | Oct 2025 – Present |
+| Software Engineer | MicroMobility, Jeddah | Jun 2026 – Present |
+| Outreach Team Leader | GDG On Campus UBT | Oct 2025 – Jun 2026 |
 | Vice Chair & Treasurer | UBT ACM Student Chapter | Feb – Dec 2025 |
 | Volunteer | Falling Walls Foundation | Sep 2025 |
 | Brand Protection Member | AFC LOC - Asian Cup U-23, KSA | Jan 2026 |
